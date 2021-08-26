@@ -132,7 +132,8 @@
                     <div class="form-box get-in-touch" id="get-in-touch">
                       <div class="form-top-content">
                         <h3>Get in touch</h3>
-                        <p class="get-in-content shoot-me">Email James directly at <a href="mailto:Hello@JamesHush.com">Hello@JamesHush.com</a></p>
+                        <p class="get-in-content shoot-me"><a href="https://discord.gg/9GY7aPq6ej">Click to join the Discord community!</a></p>
+                        <p class="get-in-content shoot-me">Email James directly at <a href="mailto:hello@jameshush.com">hello@jameshush.com</a></p>
                       </div>
                       
                       <div class="get-in-touch-form" id="contact-form">
@@ -189,7 +190,7 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-<script type="text/javascript" src="../assets/js/scripts.js?<?php echo date('l jS \of F Y h:i:s A'); ?>"></script> 
+<script type="text/javascript" src="../assets/js/scripts.js?<?php echo date('l jS \of F Y h:i:s A'); ?>"></script>
 <script type="text/javascript">
   $(document).ready(function() {
     if (!window.matchMedia)

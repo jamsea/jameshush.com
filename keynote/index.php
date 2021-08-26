@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="ie ie6 lt-ie9 lt-ie8 lt-ie7 no-js"> <![endif]-->
+<!--[if IE 7 ]>    <html class="ie ie7 lt-ie9 lt-ie8 no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html class="ie ie8 lt-ie9 no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html class="ie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> 
+<!--<![endif]-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="notie no-js">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="cache-control" content="max-age=0" />
+  <meta http-equiv="cache-control" content="no-cache" />
+  <meta http-equiv="expires" content="0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+
+  <title>James Hush - Keynote || Engineering excellence on the keynote stage.</title>
+
+  <meta name="description" content="James Hush || Engineering excellence on the keynote stage."/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content="James Hush || Engineering excellence on the keynote stage."/>
+  <meta property="og:description" content="James Hush || Engineering excellence on the keynote stage."/>
+  <meta property="og:url" content="https://jameshush.com/keynote/"/>
+  <meta property="og:site_name" content="James Hush"/>
+  <meta property="og:image" content=""/>
+
+  <link rel="icon" href="../assets/images/fav_icon.png?light" media="(prefers-color-scheme:no-preference)" type="image/png" sizes="32x32">
+  <link rel="icon" href="../assets/images/dark-mode--favicon.png?dark"  media="(prefers-color-scheme:dark)" type="image/png" sizes="32x32">
+  <link rel="icon" href="../assets/images/fav_icon.png?light" media="(prefers-color-scheme:light)" type="image/png" sizes="32x32">
+ 
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://use.typekit.net/sud3igi.css?display=swap">
+
+  <link rel="stylesheet" type="text/css" href="../assets/css/skin.css?<?php echo date('l jS \of F Y h:i:s A'); ?>" media="all" />
+
+  <link rel="stylesheet" type="text/css" href="../assets/css/responsive.css?<?php echo date('l jS \of F Y h:i:s A'); ?>" media="all" />
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/18906c5168a75355d141567ec/54a52c6d316a8e3426bda7530.js");</script>
+</head>
+
+<body>
+
+<div class="container-fluid p-0 m-0">
+    <div class="row no-gutters min-vh-100 flex-column flex-md-row root-content" id="root-content">
+         <aside class="col-12 col-md-2 col-lg-3 p-0 flex-shrink-1 h-100 left-sidebar" id="left-sidebar">
+          <div class="sidebar-wrapper">
+            <div class="site-logo">
+              <a href="../"  class="nav-link pl-0 text-nowrap"><img src="../assets/images/james_hush_logo.svg" alt="James Hush" width="298" height="52" class="img-fluid"></a>
+            </div>
+            <nav class="navbar navbar-expand navbar-dark flex-md-column flex-row align-items-start" id="sideber-nav">
+              <div class="collapse navbar-collapse">
+                  <ul class="flex-md-column flex-row navbar-nav w-100 justify-content-between">
+                      <li class="nav-item">
+                          <a class="nav-link" href="../#about">About</a>
+                      </li>
+                      <li class="nav-item active">
+                          <a class="nav-link" href="https://jameshush.com/keynote/">Keynote</a>
+                      </li>
+                      <li class="nav-item workshop-item">
+                          <a class="nav-link" href="#workshop">Workshop</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="../event-planner-resources">Event Planner Resources</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="../contact">Contact</a>
+                      </li>
+                  </ul>
+              </div>
+            </nav>
+            <div class="hold-btn">
+              <a href="#hold-my-date" class="hbtn">Hold my date</a>
+            </div>
+          </div>
+        </aside>
+        <main class="col bg-faded p-0 keynote--page-container" id="page-container">
+            <header class="top-ber-menu border-bottom fixed-top d-block d-lg-none">
+              <div class="container-fluid p-0">
+                <nav class="navbar navbar-expand-md navbar-dark bg_fcf5e6 sideber-nav">
+                  <div class="container-fluid p-0">
+                    <a class="navbar-brand nav-link pl-0 text-nowrap site-logo" href="../">
+                      <img src="../assets/images/james_hush_logo.svg" width="198" height="35"  alt="James Hush" class="img-fluid">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarNav">
+                      <ul class="navbar-nav">
+                        <li class="nav-item">
+                          <a class="nav-link" href="../#about">About</a>
+                        </li>
+                        <li class="nav-item active">
+                          <a class="nav-link" href="https://jameshush.com/keynote/">Keynote</a>
+                        </li>
+                        <li class="nav-item workshop-item">
+                            <a class="nav-link" href="#workshop">Workshop</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../event-planner-resources">Event Planner Resources</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="../contact">Contact</a>
+                        </li>
+                      </ul>
+
+                      <div class="hold-btn hold-my-date_btn">
+                        <a href="#hold-my-date" class="hbtn">Hold my date</a>
+                      </div>
+                    </div>
+                  </div>
+                </nav>
+              </div>
+            </header>
+            <div id="keynote"></div>
+            <section class="section top-section jumptarget" id="top-section">
+               <div class="row no-gutters" id="keynote-section">
+                  <div class="col-lg-6 col-12 p-0 keynote_content border-left-0 bw-3">
+                    <div class="left-bottom-content bg_e5ae35 show-on-640">
+                      <div class="inner-content headding-box">
+                        <span class="small-title">KEYNOTE :</span>
+                        <h1>The Punctual<br/> Engineer</h1>
+                      </div>
+                    </div>
+                    <div class="left-content-box">
+                      <div class="client-bio">
+                        <div class="bio-content">
+                          <h3>Here’s where I switch to speaking in third person so that I can sound even smoother.</h3>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="left-bottom-content bg_e5ae35 hide-on-640">
+                      <div class="inner-content headding-box">
+                        <span class="small-title">KEYNOTE :</span>
+                        <h1>The Punctual<br/> Engineer</h1>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 col-6 p-0 pictur-container picture-frame-5 border-top bw-3">
+                    <img src="../assets/images/JamesHush-09.jpg" width="1006" height="706" alt="James Hush" class="hidden-pic" >
+                  </div>
+                </div>
+            </section>
+            <section class="section section-02 lead-software-engineer" id="lead-software-engineer">
+              <div class="o-wrapper">
+                <div class="row no-gutters">
+                  <div class="col-lg-6 col-6 p-0 lead_content border-left-0 bw-3">
+                    <div class="bg_fff top-content-box py-40">
+                      <div class="lead-text_block">
+                        <h3>Overworked software engineers have to deal with broken products and unmet expectations on a daily basis. Lead Software Engineer James Hush shows that <span class="c-e5ae35">we already have the time to do proactive, long term work as engineers</span>—no matter the size of the company. </h3>
+                      </div>
+                    </div>
+                    <div class="dsf_bg cra_bg border-top border-left-0 bw-2 hide-on-640">
+                      <div class="bg_2b3a63 border-left bw-2">
+                        <div class="sf--text_block left-text_block bg_2b3a63 card card-body h-100 justify-content-center">
+                          <h4>Crafted for in-person events and can be adapted for the virtual stage.</h4>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 col-6 p-0 border-top border-bottom-0 border-right bw-3">
+                    <div class="bg_fcf5e6 right-list-content card card-body h-100 justify-content-center">
+                      <h4>After this keynote, your engineer- and executive-filled audience will be able to: </h4>
+                      <ul class="list-items">
+                        <li>Identify 8 No-Crash Steps for testing deployments that save time, money, and Advil.</li>
+                        <li>Discover an easier way of thinking of your career in the long term (and why it helps, even with a smattering of short-term problems). </li>
+                        <li>Dissect why Fridays are the most important work day of the week and how it can save clients millions of dollars. </li>
+                        <li>Connect with stakeholders and communicate how to deploy new updates on time (and sometimes early). </li>
+                        <li>Pinpoint a plan to never miss a Thanksgiving dinner (or Chinese New Year) with family again.</li>
+                      </ul>
+                    </div>
+                  </div>
+                    <div class="dsf_bg cra_bg border-top border-left-0 bw-2 show-on-640">
+                      <div class="bg_2b3a63 border-left bw-2">
+                        <div class="sf--text_block left-text_block bg_2b3a63 card card-body h-100 justify-content-center">
+                          <h4>Crafted for in-person events and can be adapted for the virtual stage.</h4>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+              </div>
+            </section>
+
+            <section class="section customized-testing-section border-top border-bottom bw-3 jumptarget" id="workshop">
+               <div class="row no-gutters">
+                  <div class="col-sm-5 col-12 testing_content bg_e5ae35 border border-left-0 border-top-0 bw-3 fw-640">
+                    <div class="testing-wrap-content left-bottom-content headding-box" id="">
+                        <span class="small-title d-inline-block" style="position: relative;">WORKSHOP <span style="position: absolute; right: -10px; top: -2px;">:</span></span>
+                        <h1>No-Crash Team: A Customized<br/> Testing Plan<br/> to Create<br/> Massive Results</h1>
+                      </div>
+                  </div>
+                  <div class="col-sm-7 col-12 border-right border-bottom bg_fff bw-3 p-0 fw-640">
+                    <div class="dsf_bg dsf_rt_bg border-bottom">
+                      <div class="border-right bw-3">
+                        <img src="../assets/images/JamesHush-10.jpg" alt="James Hush" width="987" height="500" class="img-fluid">
+                      </div>
+                    </div>
+                    <div class="applies-text_block">
+                      <h4>Created for small executive groups and engineering teams, this interactive breakout session serves to go more into depth after the keynote experience. Unearth how each of the 8 No-Crash Steps outlined in James’s keynote directly applies to your company or group (and how to set up processes that work for everyone). </h4>
+                    </div>
+                  </div>
+                </div>
+            </section>
+
+            <section class="section bg_2b3a63 contact-section border-right bw-3" id="hold-my-date">
+              <div class="container-fluid">
+                <div class="row">
+                  <div class="col-sm-6 col-12 contact-info">
+                    <div class="contact-info-content">
+                      <h1>Let’s get the conversation started.</h1>
+                      <p>I'll refrain from speaking in binary code during our call so that we can explore your event needs. I'll save all of the ones and zeros for the stage, when your audience rates me: 1010. </p>
+                    </div>
+                  </div>
+                  <div class="col-sm-6 col-12 contact-form-col">
+                    <div class="form-box" id="contact-form">
+                        <form action="https://jameshush.us6.list-manage.com/subscribe/post?u=18906c5168a75355d141567ec&amp;id=a06986537e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+                            <div id="mc_embed_signup_scroll">
+                            
+                            <div class="form-group">
+                              <label for="mce-NAME">Name </label>
+                              <input type="text" value="" name="NAME" class="" id="mce-NAME" required>
+                            </div>
+                            <div class="form-group">
+                              <label for="mce-EMAIL" class="d-block">Email Address  <span class="asterisk">*</span>
+                                  </label>
+                              <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" required>
+                            </div>
+                            <div class="form-group">
+                              <label for="mce-EVENT">Event/Organization: </label>
+                              <input type="text" value="" name="EVENT" class="" id="mce-EVENT" required>
+                            </div>
+                            <div class="form-group">
+                              <label for="mce-EVENTDATE-month">Event Date </label>
+                              <input class="form-control" id="date" type="date" name="Date" required>
+                            </div>
+                            <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+                            <div id="mce-responses" class="clear">
+                              <div class="response" id="mce-error-response" style="display:none"></div>
+                              <div class="response" id="mce-success-response" style="display:none"></div>
+                            </div>
+                            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                            <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_18906c5168a75355d141567ec_a06986537e" tabindex="-1" value=""></div>
+                            <div class="clear"><input type="submit" value="Hold my date" name="subscribe" id="mc-embedded-subscribe" class="submit-btn button"></div>
+                            </div>
+                          </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
+
+            <footer class="section footer-section bg_2b3a63 center">
+              <div class="container-fluid">
+                <div class="footer-logo">
+                  <a href="../"><img src="../assets/images/footer-logo.svg" width="67" height="56" alt="James Hush"></a>
+                </div>
+                <div class="copyright">
+                  <p style="color:#fcf5e6" >&copy; James Hush, <?php echo date("Y"); ?> | All Rights Reserved | <a href="../privacy-policy" target="_blank" style="color:#fcf5e6">Privacy Policy</a></p>
+                </div>
+              </div>
+            </footer>
+        </main>
+    </div>
+</div>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="" crossorigin="anonymous"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script type="text/javascript" src="../assets/js/scripts.js?<?php echo date('l jS \of F Y h:i:s A'); ?>"></script> 
+<script type="text/javascript">
+  $(document).ready(function() {
+    if (!window.matchMedia)
+        return;
+
+    var current = $('head > link[rel="icon"][media]');
+    $.each(current, function(i, icon) {
+        var match = window.matchMedia(icon.media);
+        function swap() {
+            if (match.matches) {
+                current.remove();
+                current = $(icon).appendTo('head');
+            }
+        }
+        match.addListener(swap);
+        swap();
+    });
+});
+</script>
+</body>
+</html>

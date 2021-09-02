@@ -11,10 +11,9 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
-          server: ftp.jameshush.com
-          username: github
+          server: jameshush.com
+          username: github@jameshush.com
           server-dir: "public_html/"
           password: ${{ secrets.password }}
-          protocol: ftps
           port: 21
-          dry-run: true
+          dry-run: false

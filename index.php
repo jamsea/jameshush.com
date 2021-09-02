@@ -21,6 +21,8 @@
 
   <title>James Hush || Engineering excellence on the keynote stage.</title>
 
+  <meta name="theme-color" content="#2b3a63"/>
+
   <meta name="description" content="James Hush || Engineering excellence on the keynote stage."/>
   <meta property="og:locale" content="en_US"/>
   <meta property="og:type" content="website"/>

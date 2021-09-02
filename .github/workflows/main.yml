@@ -11,7 +11,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
-          server: jameshush.com
+          server: ftp.jameshush.com
           username: github
           server-dir: "public_html/"
           password: ${{ secrets.password }}

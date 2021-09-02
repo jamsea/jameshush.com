@@ -39,9 +39,9 @@
 
   <link rel="stylesheet" href="https://use.typekit.net/sud3igi.css?display=swap">
 
-  <link rel="stylesheet" type="text/css" href="../assets/css/skin.css?<?php echo date('l jS \of F Y h:i:s A'); ?>" media="all" />
+  <link rel="stylesheet" type="text/css" href="../assets/css/skin.css" media="all" />
 
-  <link rel="stylesheet" type="text/css" href="../assets/css/responsive.css?<?php echo date('l jS \of F Y h:i:s A'); ?>" media="all" />
+  <link rel="stylesheet" type="text/css" href="../assets/css/responsive.css" media="all" />
   
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -550,7 +550,7 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="" crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
-<script type="text/javascript" src="../assets/js/scripts.js?<?php echo date('l jS \of F Y h:i:s A'); ?>"></script> 
+<script type="text/javascript" src="../assets/js/scripts.js"></script> 
 <script type="text/javascript">
   $(document).ready(function() {
     if (!window.matchMedia)

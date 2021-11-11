@@ -11,6 +11,7 @@ jobs:
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
+          local-dir: web
           server: jameshush.com
           username: github@jameshush.com
           server-dir: "public_html/"

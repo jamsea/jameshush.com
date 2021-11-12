@@ -9,6 +9,6 @@ terraform {
 
 # Configure the PagerDuty provider
 # Set the PAGERDUTY_TOKEN as an environment variable
-# provider "pagerduty" {
-#   token = var.PAGERDUTY_TOKEN
-# }
+provider "pagerduty" {
+  token = var.PAGERDUTY_TOKEN
+}

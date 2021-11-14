@@ -3,7 +3,6 @@ resource "pagerduty_team" "engineering" {
   name = "Engineering"
 }
 
-
 resource "pagerduty_team_membership" "engineering" {
   user_id = pagerduty_user.owner.id
   team_id = pagerduty_team.engineering.id

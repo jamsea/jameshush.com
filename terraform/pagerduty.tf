@@ -10,7 +10,7 @@ resource "pagerduty_team_membership" "engineering" {
   role    = "manager"
 }
 
-# pagerduty_schedule.schedule_service_marketing_primary:
+# # pagerduty_schedule.schedule_service_marketing_primary:
 resource "pagerduty_schedule" "schedule_service_marketing_primary" {
   name      = "Marketing Primary"
   teams     = [pagerduty_team.engineering.id]
@@ -35,7 +35,7 @@ resource "pagerduty_schedule" "schedule_service_marketing_primary" {
   }
 }
 
-# pagerduty_service.marketing_pages:
+# # pagerduty_service.marketing_pages:
 resource "pagerduty_service" "marketing_pages" {
   acknowledgement_timeout = "null"
   alert_creation          = "create_alerts_and_incidents"
@@ -79,14 +79,7 @@ resource "pagerduty_user" "owner" {
   time_zone = "Asia/Taipei"
   lifecycle {
     prevent_destroy = true
-    ignore_changes = [
-      color,
-      email,
-      name,
-      role,
-      time_zone,
-      description,
-    ]
+    ignore_changes  = all
   }
 }
 
@@ -108,7 +101,7 @@ resource "pagerduty_user" "example2" {
 
 resource "pagerduty_user" "example3" {
   color     = "blue"
-  email     = "test2@jameshush.com"
+  email     = "test3@jameshush.com"
   name      = "Testy Test 3"
   role      = "user"
   time_zone = "Asia/Taipei"

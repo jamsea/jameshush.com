@@ -8,6 +8,5 @@ terraform {
       name = "jameshushcom"
     }
   }
-
   required_version = ">= 0.13.0"
 }

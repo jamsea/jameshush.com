@@ -24,6 +24,6 @@ jobs:
 
       - name: Create a change event
         if: ${{ failure() }}
-        uses: PagerDuty/pagerduty-change-events-action@master
+        uses: pagerduty/pagerduty-change-events-action@master
         with:
           integration-key: ${{ secrets.PAGERDUTY_INTEGRATION_KEY }}

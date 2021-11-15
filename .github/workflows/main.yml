@@ -5,9 +5,9 @@ jobs:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Try to fail
-        uses: actions/checkout@v2
-        run: exit 1
+      # - name: Try to fail
+      #   uses: actions/checkout@v2
+      #   run: exit 1
 
       - name: 🚚 Get latest code
         uses: actions/checkout@v2
@@ -22,3 +22,9 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: 21
           dry-run: false
+
+      - name: Create a change event
+        if: ${{ always() }}
+        uses: actions/pagerduty-change-events-action@master
+        with:
+          integration-key: ${{ secrets.PAGERDUTY_INTEGRATION_KEY }}

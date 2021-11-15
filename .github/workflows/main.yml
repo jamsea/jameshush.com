@@ -24,6 +24,7 @@ jobs:
 
       - name: Create a change event
         if: ${{ failure() }}
-        uses: pagerduty/pagerduty-change-events-action@master
+        uses: Entle/action-pagerduty-alert@0.1.0
         with:
-          integration-key: ${{ secrets.PAGERDUTY_INTEGRATION_KEY }}
+          pagerduty-integration-key: "${{ secrets.PAGERDUTY_INTEGRATION_KEY }}"
+          pagerduty-dedup-key: github_workflow_failed

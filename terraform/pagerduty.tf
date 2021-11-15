@@ -106,15 +106,6 @@ resource "pagerduty_user" "example3" {
   time_zone = "Asia/Taipei"
 }
 
-resource "pagerduty_user" "example4" {
-  color     = "blue"
-  email     = "test3@jameshush.com"
-  name      = "Testy Test 3"
-  role      = "user"
-  time_zone = "Asia/Taipei"
-}
-
-
 data "pagerduty_vendor" "github" {
   name = "Github"
 }

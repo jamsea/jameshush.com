@@ -5,9 +5,6 @@ jobs:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-      - name: Try to fail
-        run: exit 1
-
       - name: 🚚 Get latest code
         uses: actions/checkout@v2
 

@@ -22,15 +22,7 @@ resource "pagerduty_schedule" "schedule_service_marketing_primary" {
     start                        = "2021-11-11T16:06:03+08:00"
     users = [
       pagerduty_user.owner.id,
-      pagerduty_user.example.id,
     ]
-
-    restriction {
-      type              = "weekly_restriction"
-      start_time_of_day = "08:00:00"
-      duration_seconds  = 32400
-      start_day_of_week = 1
-    }
   }
 }
 

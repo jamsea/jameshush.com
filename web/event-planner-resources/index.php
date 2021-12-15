@@ -77,6 +77,9 @@
                       <li class="nav-item">
                           <a class="nav-link" href="../contact">Contact</a>
                       </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="https://blog.jameshush.com">Blog</a>
+                      </li>
                   </ul>
               </div>
             </nav>

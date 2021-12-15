@@ -15,7 +15,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  
+
   <meta name="apple-mobile-web-app-capable" content="yes" />
 
   <title>Privacy Policy for James Hush || Engineering excellence on the keynote stage.</title>
@@ -79,6 +79,9 @@
                       </li>
                       <li class="nav-item">
                           <a class="nav-link" href="../contact">Contact</a>
+                      </li>
+                      <li class="nav-item">
+                          <a class="nav-link" href="https://blog.jameshush.com">Blog</a>
                       </li>
                   </ul>
               </div>

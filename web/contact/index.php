@@ -115,6 +115,9 @@
                         <li class="nav-item active">
                             <a class="nav-link" href="../contact">Contact</a>
                         </li>
+                        <li class="nav-item">
+                          <a class="nav-link" href="https://blog.jameshush.com">Blog</a>
+                      </li>
                       </ul>
 
                       <div class="hold-btn hold-my-date_btn">

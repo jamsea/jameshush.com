@@ -117,7 +117,7 @@
                         </li>
                         <li class="nav-item">
                           <a class="nav-link" href="https://blog.jameshush.com">Blog</a>
-                      </li>
+                        </li>
                       </ul>
 
                       <div class="hold-btn hold-my-date_btn">

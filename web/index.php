@@ -423,7 +423,7 @@
             </div>
             <div class="embed-responsive embed-responsive-16by9 mt-4">
               <iframe
-                src="https://www.youtube.com/embed/dXHLdRCXU_g?controls=0"
+                src="https://www.youtube.com/embed/dXHLdRCXU_g"
                 class="embed-responsive-item"
                 title="James Hush: The Punctual Engineer"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
